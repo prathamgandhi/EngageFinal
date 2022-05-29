@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_tick_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_tick_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_cross_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_cross_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_home_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_home_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tick_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_tick_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_cross_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_cross_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_criminal_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_criminal_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_criminal.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_criminal.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_person.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_home.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tick_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_tick_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_fragment_attendance.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_attendance.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_lost.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_lost.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_lost_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_lost_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_cross.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_cross.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_transparent_bg_bordered.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/transparent_bg_bordered.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_home_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_home_round.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_login_screen.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/login_screen.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_home.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_fragment_criminal.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_criminal.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tick_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_tick_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_criminal_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_criminal_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_lost_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_lost_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_cross_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_cross_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_lost_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_lost_round.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_criminal_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_criminal_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_cross_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_cross_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_cross.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_home_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_home_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tick_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_tick_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_activity_register_photo.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_register_photo.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_criminal.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_criminal.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_person_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_person_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_person_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_person_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_splash_screen.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_cross.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_empty_divider.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/empty_divider.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_person.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_lost_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_lost_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_home_page.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/home_page.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_home_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_home_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_person_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_person_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_home_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_home_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_criminal.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_criminal.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_transparent_bg_bordered_button.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/transparent_bg_bordered_button.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_lost_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_lost_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_lost_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_lost_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_criminal_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_criminal_round.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_tick_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_tick_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_activity_register_page.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_register_page.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_criminal.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_criminal.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_cross_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_cross_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_cross_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_cross_round.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_tick.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_tick.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_lost.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_lost.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_policebadge.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/policebadge.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_person.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_register_crimlost_popup.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/register_crimlost_popup.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_criminal_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_criminal_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_lost_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_lost_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_criminal_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_criminal_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_home_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_home_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_activity_i_p.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_i_p.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_criminal_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_criminal_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_lost_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_lost_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_criminal.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_criminal.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_person_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_person_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_tick.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_tick.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_cross_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_cross_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_person.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_person.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tick_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_tick_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_popup_menu_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/popup_menu_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_tick_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_tick_round.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_signin_popup_window.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/signin_popup_window.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_person_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_person_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_home.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_tick.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_tick.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_person.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_popup_window.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/popup_window.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_criminal_result_popup.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/criminal_result_popup.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_person_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_person_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/layout_photo_check_popup.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/photo_check_popup.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_lost.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_lost.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_tick.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_tick.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_home_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_home_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_cross.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_home.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_tick.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_tick.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_home.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_lost.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_lost.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_home.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_home.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_person_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_person_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/drawable_ic_criminal_background.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/drawable/ic_criminal_background.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_criminal.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_criminal.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_tick.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_tick.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_person.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_cross.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xhdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_lost.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxhdpi/ic_lost.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_cross.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_cross.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_home_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_home_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_lost.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_lost.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_person_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_person_round.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_cross_round.png.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-xxxhdpi/ic_cross_round.png"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

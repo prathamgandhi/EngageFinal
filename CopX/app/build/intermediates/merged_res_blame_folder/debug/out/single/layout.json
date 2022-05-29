@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/popup_window.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/popup_window.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register_photo.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_register_photo.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_i_p.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_i_p.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_screen.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/login_screen.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_lost.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_lost.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_page.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/home_page.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_attendance.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_attendance.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_criminal.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_criminal.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/photo_check_popup.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/photo_check_popup.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/criminal_result_popup.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/criminal_result_popup.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/register_crimlost_popup.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/register_crimlost_popup.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/splash_screen.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/signin_popup_window.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/signin_popup_window.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register_page.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/activity_register_page.xml"
+    },
+    {
+        "merged": "/home/pratham/AndroidStudioProjects/CopX/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/home/pratham/AndroidStudioProjects/CopX/app/src/main/res/layout/fragment_home.xml"
+    }
+]
