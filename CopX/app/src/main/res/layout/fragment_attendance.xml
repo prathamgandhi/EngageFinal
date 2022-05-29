@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AttendanceFragment"
+    android:background="@color/police_blue">
+
+
+    <FrameLayout
+        android:id="@+id/camera_frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="626dp">
+
+        <androidx.camera.view.PreviewView
+            android:id="@+id/viewFinder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </androidx.camera.view.PreviewView>
+
+        <xyz.prathamgandhi.copx.DrawBoundingBox
+            android:id="@+id/attendance_bounding_box"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent">
+
+        </xyz.prathamgandhi.copx.DrawBoundingBox>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/capturePhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/transparent_bg_bordered_button" />
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/get_attendance_button"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="20dp"
+        android:text="Get Attendance"></Button>
+
+    <Button
+        android:id="@+id/mark_attendance_button"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="20dp"
+        android:text="Mark Attendance"></Button>
+
+</FrameLayout>
